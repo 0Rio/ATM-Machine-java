@@ -67,7 +67,10 @@ private static Boolean check()
 
 private static void atm() 
 {
-	
+	System.out.println("Select the Account you want to access");
+	System.out.println("Type 1 - Checking Account");
+	System.out.println("Type 2 - Saving Account");
+	System.out.println("Type 3 - Exit");
 	
 }
 }
