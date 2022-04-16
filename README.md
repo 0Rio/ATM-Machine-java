@@ -32,9 +32,10 @@ Account No: 9878677  pass: 3874
 # To use it
 
 type :
-      `git clone https://github.com/0Rio/ATM-Machine-java
+      
+      git clone https://github.com/0Rio/ATM-Machine-java
       cd ATM-Machine-java/ATM Machine/src/main/
-      javac main.java`
+      javac main.java
       
       
       
