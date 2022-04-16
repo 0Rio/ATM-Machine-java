@@ -65,7 +65,8 @@ private static Boolean check()
 	}
 
 
-private static void atm() {
+private static void atm() 
+{
 	
 	
 }
