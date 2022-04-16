@@ -57,11 +57,18 @@ private static Boolean check()
 	{
 		if(acc[i] == accNo && pass[i] == pas)
 		{
-			
+			atm();
+			return true;
 		}
 	}
 		return false;	
 	}
+
+
+private static void atm() {
+	
+	
+}
 }
 
 
